@@ -39,7 +39,7 @@
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=2A5486&height=100&section=footer)
 
 <!---
-#Colors
+#Colors 참고
 
 brightgreen
 green
@@ -61,4 +61,10 @@ ff69b4
 ffffff
 000000
 f0A87B
+
+# 이모티콘 참고
+https://www.webpagefx.com/tools/emoji-cheat-sheet/
+
+# 아이콘 참고
+https://simpleicons.org/
 --->
